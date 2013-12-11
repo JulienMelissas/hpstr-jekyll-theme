@@ -1,29 +1,29 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Julien on Code
+description:      A place for me to put code and other helpful things.
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Julien Melissas
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "I'm a Web Developer, Foodie, and Music Lover/Maker living in Asheville, NC."
+  email:          julien.melissas@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        JulienMelissas
   facebook:       
-  github:         
+  github:         JulienMelissas
   stackexchange:  
   linkedin:       
-  instagram:      
+  instagram:      julienmelissas
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   google_plus:   
 
 # Background image to be tiled on all pages
-background: ps_neutral.png
+background: bg-geometry.png
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -34,10 +34,8 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Theme Setup
-    url: /theme-setup
-  - title: External Link
-    url: http://mademistakes.com
+  - title: JM Labs
+    url: http://jmlabs.io
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
